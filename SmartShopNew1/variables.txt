@@ -1,0 +1,13 @@
+category = category of product (Food,Electronics or General)
+prod_name = name of product
+category_int = integer value of category for the flow table
+
+amazon_data = data of amazon
+flipkart_data = data of flipkart
+
+pincode = pincode for checking grocery availability
+flip_groc_data= data of flipkart grocery
+
+myntra_data = myntra data for clothing
+ajio_data = ajio data for clothing
+

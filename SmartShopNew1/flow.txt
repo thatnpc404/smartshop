@@ -1,0 +1,15 @@
+General
+-amazon
+-flipkart
+
+Food Section
+-dmart
+-flipkart grocery
+-jiomart
+(work on %20%)
+
+Electronics
+-
+
+Clothing
+-
